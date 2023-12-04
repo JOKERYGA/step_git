@@ -41,3 +41,4 @@ def person_is_seller(person):
 
 
 print(search('you'))
+print('для второго коммита')
